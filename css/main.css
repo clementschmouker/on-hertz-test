@@ -14,3 +14,7 @@ body {
 .coordinates {
 	text-align: center;
 }
+
+.coordinates::selection {
+	background: none;
+}
